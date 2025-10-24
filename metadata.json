@@ -1,0 +1,5 @@
+{
+  "name": "Hermite Curve Generator",
+  "description": "An interactive web application to generate and visualize Hermite cubic splines. Users can input control points and tangent vectors to see the resulting curve, along with the underlying mathematical equations and matrices.",
+  "requestFramePermissions": []
+}
